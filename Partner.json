@@ -18,5 +18,35 @@
   "name": "Gura ImLs",
   "click":"https://play.google.com/store/apps/details?id=com.Gura.Imls.Injector.Tools.Skin.ML.GFX&hl=en",
     "icon": "https://play-lh.googleusercontent.com/1uAX-TnLA8ZnjT5zYeQ3yV3gC26vm1hlglKo0Bdx6TpX9aaviQthvPf30ECkpiQWx88YKbCoex1Jx_J3iQacaA=w480-h960-rw"
+  },
+  {
+      "name": "Worst Injector",
+  "click":"https://play.google.com/store/apps/details?id=com.Worst.Injector.Tools.Skin.ML.GFX&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dworst+injector",
+    "icon": "https://play-lh.googleusercontent.com/63orUE2OX8R8SJ_jb1nqb0XlcelEXZZyE_85BgD3ZkyNJ_MAeaNdP6HUZeGVoqXCx3OqZoN62apKvhrmrUOC=w480-h960-rw"
+  },
+    {
+      "name": "Shen Injector",
+  "click":"https://play.google.com/store/apps/details?id=com.Shen.Injector.Tools.Skin.ML.GFX",
+    "icon": "https://play-lh.googleusercontent.com/Uw-I4FymrTFGPMH-XiQNfJWng1k-VYMhxs4R78GB2L-gg5gp5sEyQ7WH1REbay_BFHt8FSuIiQlYl8iKlTp_=w480-h960-rw"
+  },
+    {
+      "name": "Warlito Tools",
+  "click":"https://play.google.com/store/apps/details?id=com.Warlito.Tools.Skin.ML.GFX.Injector",
+    "icon": "https://play-lh.googleusercontent.com/tLsQWco4V0pY7G1Qxf_E5zH0GKMhCaIfnV7ckems2gbZxO4Nn6I_FF8ixjqrjq7Mi71D8gejPp0eovhtiNnfsA=w480-h960-rw"
+  },
+    {
+      "name": "Zero Injector",
+  "click":"https://play.google.com/store/apps/details?id=com.Zero.Injector.Tools.Skin.ML.GFX",
+    "icon": "https://play-lh.googleusercontent.com/RxtkktKQgVz_4WqPJ0jzfPJpDRVRFpkTyu2gqLY85TGrWA8sJkuPNkLlvqTC9q_r6JFs0_y9b3LM6i7aML87=w480-h960-rw"
+  },
+    {
+      "name": "",
+  "click":"",
+    "icon": ""
+  },
+    {
+      "name": "",
+  "click":"",
+    "icon": ""
   }
 ]
