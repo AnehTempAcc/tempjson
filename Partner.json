@@ -1,10 +1,22 @@
 [
   {
     "name": "Ryumoto GFX",
-    "icon": "https://play-lh.googleusercontent.com/tJ20rj4X8jk8wcfrUutS5ze_yK4QHaD_gpc4D7sBxfH3tVuocZZEAgsIcJRMA82XhGSm_edNXvTiA6GSODI9jw=w480-h960-rw"
+    "icon": "https://play-lh.googleusercontent.com/tJ20rj4X8jk8wcfrUutS5ze_yK4QHaD_gpc4D7sBxfH3tVuocZZEAgsIcJRMA82XhGSm_edNXvTiA6GSODI9jw=w480-h960-rw",
+ "click":"https://play.google.com/store/apps/details?id=ag5.skintoolsmlvinztoolsmodskininjectorbangbang&hl=en"
   },
   {
     "name": "AG Tools ML",
+  "click":"https://play.google.com/store/apps/details?id=aneh.handsome.ag5&hl=en",
     "icon": "https://play-lh.googleusercontent.com/sD3UmpkStQOZDVkHZr7NsEg6z8xE6H0gRDSeGB2zgnafvomjVbJcpmLqF-ErKOCMwRwBIf3MWPWS9z4s1bMz=w480-h960-rw"
+  },
+  {
+  "name": "SanToRyu Toolkit",
+  "click":"https://play.google.com/store/apps/details?id=com.Santoryu.Toolkit.Tools.Skin.ML.Injector.GFX&hl=en",
+    "icon": "https://play-lh.googleusercontent.com/ZKCixSIZyT-C0TbWdR0V5-y_P-9-ch67JeXlaMqOHvvUIZEXTzQOyFxo_1A2rhLM-__ZDBJOMP_DQn_JdDBg3Wc=w480-h960-rw"
+  },
+  {
+  "name": "Gura ImLs",
+  "click":"https://play.google.com/store/apps/details?id=com.Gura.Imls.Injector.Tools.Skin.ML.GFX&hl=en",
+    "icon": "https://play-lh.googleusercontent.com/1uAX-TnLA8ZnjT5zYeQ3yV3gC26vm1hlglKo0Bdx6TpX9aaviQthvPf30ECkpiQWx88YKbCoex1Jx_J3iQacaA=w480-h960-rw"
   }
 ]
