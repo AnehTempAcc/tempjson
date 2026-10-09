@@ -1,8 +1,8 @@
 [
   {
-  "visibility": "INVISIBLE",
+  "visibility": "VISIBLE",
  "upgrade_skin_enabled": true,
-  "min_version": "1.5",
+  "min_version": "1.9",
   "app_name": "Lumina GFX",
   "dialog_title": "App under maintenance. Meanwhile, please use IQ Tools. Click update",
   "dialog_message": "aplikasi dalam perbaikan, sementara gunakan aplikasi IQ Tools. klik update",
@@ -10,7 +10,7 @@
   "button_cancel": "Cancel",
   "cancelable": false,
   "info": "tes",
-  "link_update": "https://play.google.com/store/apps/developer?id=PutMax+Dev",
+  "link_update": "https://play.google.com/store/apps/details?id=com.Lumina.GFX.Tools.Skin.ML.Injector",
 "tutor_main": "https://youtu.be/Iov3qoyiAVM?si=owEftB03Ghqr2szx",
   "tutor_file": "https://youtu.be/Iov3qoyiAVM?si=owEftB03Ghqr2szx",
   "tutor_shizuku": "https://youtu.be/RF_Sm0KrmQc?si=xEd1FNvduBiwOUyT",
