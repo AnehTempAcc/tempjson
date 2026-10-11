@@ -49,10 +49,6 @@
   ],
   "bannable_apps": [
     {
-      "package": "com.kaizokuo.gfx",
-      "label": "Kaizoku-o GFX"
-    },
-    {
       "package": "com.scripttools",
       "label": "Kionyx GFX"
     },
@@ -71,10 +67,6 @@
     {
       "package": "com.draxyn.app",
       "label": "Draxyn"
-    },
-    {
-      "package": "com.mobalauncher.io",
-      "label": "Moba Launcher"
     },
     {
       "package": "com.bisayatoolkit.ph",
