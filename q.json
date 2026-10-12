@@ -2,24 +2,24 @@
   "partner_apps_visible": true,
   "partner_apps": [
     {
-      "app_name": "Yin Tools",
-      "icon_url": "https://play-lh.googleusercontent.com/zShAVqPHWtE0EuRZXRPYy_HUjmvso1LhFw5Sb43B8ffaRW83uNRPvnjtkyyZDFdaMAfpK1acPpCRpfhB05H_MQ=s128-rw",
-      "link_update": "https://play.google.com/store/apps/details?id=com.Yin.Tools.MLConfigSkin.Injector"
+      "app_name": "ML Toolkit",
+      "icon_url": "https://play-lh.googleusercontent.com/9VKu4-iMghjhXQrEHIyz0BYuOh1XSRLooeOSGYEtYDM8JciESnD1ahClLfQE_mK2T_iSCkX4n0fM6tcQoHo66Q=w480-h960-rw",
+      "link_update": "https://play.google.com/store/apps/details?id=com.Lumina.GFX.Tools.Skin.ML.Injector"
     },
     {
-      "app_name": "GS Tools",
-      "icon_url": "https://play-lh.googleusercontent.com/ygnfYDHWVtosUn5jN36ip7tnW4DvE14o8ooKCKIgm9Ncog3gw-C89GVu5XEMXYiMEwHL4rJTqOZ23Sdv7QjVuoA=s512-rw",
-      "link_update": "https://play.google.com/store/apps/details?id=gG.Tools.MLInjector.SkinToolML"
+      "app_name": "ML Skin Config",
+      "icon_url": "https://play-lh.googleusercontent.com/xsfnLboEkuJLo6G_2lpY0NeO6PgrlXl_5zIAhmmmrYY89Q9jGaU3p07odKnM69Unx4HCMosN8MwJ5JxO4ZsgFA=w480-h960-rw",
+      "link_update": "https://play.google.com/store/apps/details?id=com.aneh.gaming7"
     },
     {
-      "app_name": "Remoba Tools",
-      "icon_url": "https://i.ibb.co.com/RGM5hW5S/Chat-GPT-Image-18-Agu-2026-23-36-04-picsay.png",
-      "link_update": "https://play.google.com/store/apps/details?id=com.Remoba.Tools.MLSkinHub.Injector"
+      "app_name": "JC Tools",
+      "icon_url": "https://play-lh.googleusercontent.com/_SjwHda_hDkGA6yJzPFJMHNfDO8VkE07YiXnTFa5_fiiodJIL6JgkmZy-Bxl3oQSNdOpVFFzvArsf5WLJ8IWTQ=w480-h960-rw",
+      "link_update": "https://play.google.com/store/apps/details?id=bahran.the.meow"
     },
     {
-      "app_name": "Ryu Tools",
-      "icon_url": "https://play-lh.googleusercontent.com/-zOLRr4F7nnCbIWUw0_JmnuAnboTfsrhqtV5kPQkgPyVLHfQN6A9GEHefos2mT5vHFninF_-516WbXE69FnpIQ=s128-rw",
-      "link_update": "https://play.google.com/store/apps/details?id=com.Ryu.Tools.MLSkinInjector.ML.Toolkit"
+      "app_name": "ML Script",
+      "icon_url": "https://play-lh.googleusercontent.com/1p1bKO398b44mTjafaBuQuHWjuB-iiBHoTkV7uZkvpfvUsO8O7mE1tBIEqwj97ETIOjbWl0d7pw5it5PaJShkQ=w480-h960-rw",
+      "link_update": "https://play.google.com/store/apps/details?id=touch.the.grass"
     },
     {
       "app_name": "ML Tools Hub",
