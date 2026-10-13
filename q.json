@@ -121,6 +121,10 @@
       "label": "ML Tools Hub Palsu"
     },
     {
+      "package": "com.aura.tools.skin.ml",
+      "label": "ML Tools Hub Palsu"
+    },
+    {
       "package": "com.ghdxtoolsap.ffsensufty",
       "label": "GFX Tools"
     }
